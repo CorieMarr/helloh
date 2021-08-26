@@ -1,7 +1,7 @@
 /**
  * Author: Corie Marr
  *         cmarr3@huskers.unl.edu
- * Date: 2020/08/2
+ * Date: 2020/08/26
  *
  * A simple hello world program in C
  *
@@ -11,7 +11,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Corie Marr\n");
+  printf("Corie Marr!\nMajor Undecided\n");
 
   return 0;
 }
